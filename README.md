@@ -2,4 +2,4 @@
 
 *ongoing*
 
-![Ongoing work](/img/neo4j-ongoing.png)
+![neo4j demo](/img/neo4j-ongoing.png)
